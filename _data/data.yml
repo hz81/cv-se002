@@ -64,19 +64,6 @@ sidebar:
 qualifications:
     title: Qualifications
     info:
-      - degree: Master in Information Systems Management
-        university: Binus University of Jakarta
-        time: 2020 - 2022
-        gpa: "GPA: 3.97"
-        site: https://graduate.binus.ac.id
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
       - degree: Bachelor in Information Systems Management
         university: Binus University of Jakarta
         time: 2000 - 2004
